@@ -212,7 +212,7 @@ class cameraddlandscape extends Component {
                     <Image style={{ width: 100, height: 50,alignSelf:"center",alignItems:"center",alignContent:"center",padding:10,margin:2}} source={require('./assets/football.jpg')}></Image>
                     <Image style={{ width: 40, height: 40,alignSelf:"center",alignItems:"center",alignContent:"center",padding:10,marginLeft:300}} source={require('./assets/arrow-left.png')}></Image>
 
-                    
+                    <Image></Image>
                     
                     
                   </View>
